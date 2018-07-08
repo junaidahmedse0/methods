@@ -1,0 +1,6 @@
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionSix\QuestionSix\bin\Debug\QuestionSix.exe.config
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionSix\QuestionSix\bin\Debug\QuestionSix.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionSix\QuestionSix\bin\Debug\QuestionSix.pdb
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionSix\QuestionSix\obj\Debug\QuestionSix.csprojResolveAssemblyReference.cache
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionSix\QuestionSix\obj\Debug\QuestionSix.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionSix\QuestionSix\obj\Debug\QuestionSix.pdb
